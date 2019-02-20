@@ -1,0 +1,30 @@
+.nav-4 a{
+    color: #FF5733 !important;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.alma-matar{
+    color: #7B68EE;
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+.time, .from{
+    font-style: italic;
+    font-size: 1.2rem;
+    color: #FF5733;
+}
+
+.over{
+    display: block;
+    padding: 0 60px 90px 0;
+}
+
+.over td{
+    font-size: 1.2rem;
+    color: #4CAF50;
+}

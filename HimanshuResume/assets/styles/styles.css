@@ -1,53 +1,11 @@
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Open Sans', sans-serif;
-}
-
-header{
-    padding-left: 15%;
-    padding-right: 15%;
-    margin-top: 85px; 
-}
-
-.intro-img{
-    height: 25%;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-}
-
-header nav{
-    margin-top: 50px;
-}
-
-.navigation li{
-    display: inline-block;
-    width: 15%;
-    text-align: center;
-    font-size: 0.8rem;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    text-transform: uppercase;
-}
-
-.navigation li a{
-    color: #7B68EE;
-    text-decoration: none;
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
-}
-
-.navigation li a:hover{
-    color: #FF5733;
-    text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+.nav-1 a{
+    color: #FF5733 !important;
 }
 
 article{
     width: 50%;
     text-align: center;
-    margin: 50px auto 60px;
+    margin: 50px auto 0;
     font-family: 'Josefin Sans', sans-serif;
     color: #7B68EE;
     position: relative;

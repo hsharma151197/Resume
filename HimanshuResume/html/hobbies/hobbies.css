@@ -1,0 +1,25 @@
+.nav-5 a{
+    color: #FF5733 !important;
+}
+
+section .stmt{
+    list-style-type: none;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section .stmt li{
+    color: #7B68EE;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.8rem;
+    margin: 0 30px 60px;
+}
+
+.stmt li img{
+    max-width: 20%;
+    max-height: 30%;
+    margin: 0 25px;
+    position: relative;
+    top: 20px;
+}

@@ -1,0 +1,33 @@
+.nav-2 a{
+    color: #FF5733 !important;
+}
+
+.contact{
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-around;
+}
+
+.contact-1{
+    font-size: 500%;
+    color: #7B68EE;
+    text-align: center;
+}
+
+.contact-1 > span{
+    display: block;
+    font-size: 2rem;
+    color: #FF5733;
+}
+
+.contact-2{
+    font-size: 500%;
+    color: #7B68EE;
+    text-align: center;
+}
+
+.contact-2 > span{
+    display: block;
+    font-size: 2rem;
+    color: #FF5733;
+}
