@@ -1,0 +1,55 @@
+.nav-3 a{
+    color: #FF5733 !important;
+}
+
+/* section h3{
+    font-weight: 200;
+    font-size: 3rem;
+    color: #00008B;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+} */
+
+table{
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+th{
+    padding: 30px;
+    font-size: 2rem;
+    color: #7B68EE;
+    text-align: left;
+}
+
+td{
+    padding: 20px;
+    font-size: 1.2rem;
+    color: #FF5733;
+}
+
+.container {
+    width: 500%; 
+    background-color: #ddd; 
+    border-radius: 8px;
+}
+
+.skills {
+    text-align: right; 
+    padding: 10px;
+    color: white;
+    border-radius: 8px;
+}
+
+.skills-1 {width: 90%; background-color: #4CAF50;} 
+.skills-2 {width: 88%; background-color: #2196F3;} 
+.skills-3 {width: 80%; background-color: #2196F3;} 
+.skills-4 {width: 60%; background-color: #808080;} 
+.skills-5 {width: 75%; background-color: #f44336;} 
+.skills-6 {width: 80%; background-color: #2196F3;} 
+.skills-7 {width: 70%; background-color: #f44336;} 
+.skills-8 {width: 95%; background-color: #4CAF50;}
+.skills-9 {width: 95%; background-color: #4CAF50;} 
+.skills-10 {width: 98%; background-color: #4CAF50;} 
+.skills-11 {width: 95%; background-color: #4CAF50;} 
