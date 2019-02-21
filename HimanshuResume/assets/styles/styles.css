@@ -17,6 +17,7 @@ article{
     max-height: 180px;
     top: 0;
     left: -150px;
+    border-radius: 20%;
 }
 
 article h2{
@@ -66,6 +67,7 @@ section h3{
 .slide img {
     width: 60%;
     height: 400px;
+    border-radius: 5%;
 }
 
 
